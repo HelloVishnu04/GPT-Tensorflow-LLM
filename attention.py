@@ -3,7 +3,6 @@ import tensorflow as tf
 class AttentionHead(tf.keras.layers.Layer):
     """
     Attention head implementation.
-
     Args:
         head_dim: Dimensionality of the attention head.
 
