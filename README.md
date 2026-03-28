@@ -1,4 +1,4 @@
-# GenesisMind-Building-GPT-from-Scratch
+# Building-GPT-from-Scratch
 
 GPT "Generative Pre-trained Transformer" is the first version of the GPT series of models, revolutionized natural language processing with its autoregressive language modeling capabilities built on the Transformer architecture.
 
