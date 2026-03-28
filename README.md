@@ -57,7 +57,7 @@ Detailed project documentation can be found in the `demo/` directory. It include
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/AliHaiderAhmad001/GPT-from-Scratch-with-Tensorflow.git
+   git clone [https://github.com/HelloVishnu04/GPT-Tensorflow-LLM.git]
    cd GPT-from-Scratch-with-Tensorflow
    ```
 
@@ -97,7 +97,7 @@ The data loader I use requires the validation set to be in a separate folder.
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](https://github.com/AliHaiderAhmad001/Neural-Machine-Translator/blob/main/LICENSE.txt) file for details.
+This project is licensed under the MIT License. See the [LICENSE]
 
 ## Acknowledgments
 
